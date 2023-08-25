@@ -1,0 +1,1 @@
+dataset resource :https://www.kaggle.com/datasets/thunderpede/panoramic-dental-dataset
